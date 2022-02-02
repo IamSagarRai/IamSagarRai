@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sagar Rai
+- ***👋 Hi, I’m @Sagar Rai ***
 - 👀 I’m interested in Artificial Intelligence ;)
 - 🌱 I’m currently learning Python and Data Structures
 - 💞️ I’m looking to collaborate with other's in a short span of time soon
