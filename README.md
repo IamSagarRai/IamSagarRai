@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @Sagar Rai 
-## Artifical Intelligence || Machine Learning || Space Enthusiast || Coder || Student 😏
+## Artifical Intelligence || Trendsetter || Space Enthusiast || Coder || Student 😏
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsagar&label=Profile%20views&color=0e75b6&style=flat" alt="iamsagar" /> </p>
 
