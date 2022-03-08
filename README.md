@@ -1,7 +1,10 @@
 ### 👋 Hi, I’m @Sagar Rai 
 ## Artifical Intelligence || Trendsetter || Influencer || Space Enthusiast || Coder || Student 😏
 
-<a href="https://app.daily.dev/Iam_Sagar"><img src="https://api.daily.dev/devcards/dee722df27c0461393b7d9acc57029f3.png?r=td9" width="400" alt="Sagar Rai's Dev Card"/></a><p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsagar&label=Profile%20views&color=0e75b6&style=flat" alt="iamsagar" /> </p>
+<a href="https://app.daily.dev/Iam_Sagar"><img src="https://api.daily.dev/devcards/dee722df27c0461393b7d9acc57029f3.png?r=pj6" width="400" alt="Sagar Rai's Dev Card"/></a>
+
+
+<img src="https://komarev.com/ghpvc/?username=iamsagar&label=Profile%20views&color=0e75b6&style=flat" alt="iamsagar" /> </p>
 
 - 👀 I’m interested in Artificial Intelligence ;)
 - 🌱 I’m currently learning Python and Data Structures as well as TensorFlow 
