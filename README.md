@@ -2,7 +2,9 @@
 ## Artifical Intelligence || Trendsetter || Influencer || Space Enthusiast || Coder || Student 😏
 
 <a href="https://app.daily.dev/Iam_Sagar"><img src="https://api.daily.dev/devcards/dee722df27c0461393b7d9acc57029f3.png?r=pj6" width="400" alt="Sagar Rai's Dev Card"/></a>
-
+<a href="https://github.com/nschloe/optimesh">
+  <img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/>
+</a>
 
 <img src="https://komarev.com/ghpvc/?username=iamsagar&label=Profile%20views&color=0e75b6&style=flat" alt="iamsagar" /> </p>
 
