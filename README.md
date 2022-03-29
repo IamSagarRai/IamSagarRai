@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @Sagar Rai 
-## Artifical Intelligence || Trendsetter || Influencer || Space Enthusiast || Coder || Student 😏
+## Artifical Intelligence || Trendsetter || Cuber || Space Enthusiast || Coder || Student 😏
 
 <!-- <a href="https://app.daily.dev/Iam_Sagar"><img src="https://api.daily.dev/devcards/dee722df27c0461393b7d9acc57029f3.png?r=pj6" width="400" alt="Sagar Rai's Dev Card"/></a> -->
 <a href="https://github.com/nschloe/optimesh">
@@ -15,7 +15,8 @@
 - 📫 How to reach me - Mail me on iamsagar14429@gmail.com , and I'll surely reply asap ..
 - 🤓 I also have a keen interest in astronomy and space science as well 
 - 🐱‍👤 Do join the Tesseract organization created and set up by me ! More info in the organization about tab !
-      
+- 😎 My most cool talent is to solve a Rubics cube in under a minute !
+-     
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/iamsagar14429" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="iamsagar14429" height="30" width="40" /></a>
