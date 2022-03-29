@@ -16,7 +16,7 @@
 - 🤓 I also have a keen interest in astronomy and space science as well 
 - 🐱‍👤 Do join the Tesseract organization created and set up by me ! More info in the organization about tab !
 - 😎 My most cool talent is to solve a Rubics cube in under a minute !
--     
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/iamsagar14429" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="iamsagar14429" height="30" width="40" /></a>
