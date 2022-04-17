@@ -11,7 +11,7 @@
 - 👀 I’m interested in Artificial Intelligence ;)
 - 🌱 I’m currently learning HTML CSS and JAVASCRIPT !
 - 💞️ I’m looking to collaborate with other's in a short span of time soon
-- 👨‍💻 All of my projects are available at [https://wke.lt/w/s/-oF5u_](https://wke.lt/w/s/-oF5u_)
+<!-- - 👨‍💻 All of my projects are available at [https://wke.lt/w/s/-oF5u_](https://wke.lt/w/s/-oF5u_) -->
 - 📫 How to reach me - Mail me on iamsagar14429@gmail.com , and I'll surely reply asap ..
 - 🤓 I also have a keen interest in astronomy and space science as well 
 - 🐱‍👤 Do join the Tesseract organization created and set up by me ! More info in the organization about tab !
