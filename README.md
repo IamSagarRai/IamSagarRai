@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=iamsagar&label=Profile%20views&color=0e75b6&style=flat" alt="iamsagar" /> </p>
 
 - 👀 I’m interested in Artificial Intelligence ;)
-- 🌱 I’m currently learning HTML CSS and JAVASCRIPT !
+- 🌱 I’m currently solving unqiue python problems !
 - 💞️ I’m looking to collaborate with other's in a short span of time soon
 <!-- - 👨‍💻 All of my projects are available at [https://wke.lt/w/s/-oF5u_](https://wke.lt/w/s/-oF5u_) -->
 - 📫 How to reach me - Mail me on iamsagar14429@gmail.com , and I'll surely reply asap ..
