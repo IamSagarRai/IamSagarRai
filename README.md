@@ -7,6 +7,7 @@
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=iamsagar&label=Profile%20views&color=0e75b6&style=flat" alt="iamsagar" /> </p>
+<a href="https://app.daily.dev/Iam_Sagar"><img src="https://api.daily.dev/devcards/dee722df27c0461393b7d9acc57029f3.png?r=kk6" width="400" alt="Sagar Rai's Dev Card"/></a>
 
 - 👀 I’m interested in Artificial Intelligence ;)
 - 🌱 I’m currently solving unqiue python problems !
