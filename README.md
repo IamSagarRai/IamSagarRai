@@ -16,7 +16,7 @@
 - 📫 How to reach me - Mail me on iamsagar14429@gmail.com , and I'll surely reply asap ..
 - 🤓 I also have a keen interest in astronomy and space science as well 
 - 🐱‍👤 Do join the Tesseract organization created and set up by me ! More info in the organization about tab !
-- 😎 My most cool talent is to solve a Rubics cube in under a minute !
+- 😎 My coolest talent is to solve a Rubics cube in under a minute !
 - 🎶 I also do like Listening to music often !
   
 <h3 align="left">Connect with me:</h3>
