@@ -1,7 +1,7 @@
+![](https://github.com/rfyiamcool/rfyiamcool/blob/master/header.png)
+
 ### 👋 Hi, I’m @Sagar Rai 
 ## Artifical Intelligence || Trendsetter || Cuber || Space Enthusiast || Coder || Student 😏
-
-<a href="https://app.daily.dev/Iam_Sagar"><img src="https://api.daily.dev/devcards/dee722df27c0461393b7d9acc57029f3.png?r=ze2" width="400" alt="Sagar Rai's Dev Card"/></a>
 
 
 - 👀 I’m interested in Artificial Intelligence ;)
