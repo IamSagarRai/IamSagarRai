@@ -5,7 +5,7 @@
 
 
 - 👀 I’m interested in Artificial Intelligence ;)
-- 🌱 I’m currently solving unqiue python problems !
+- 🌱 I’m currently learning Tensorflow !
 - 💞️ I’m looking to collaborate with other's in a short span of time soon
 <!-- - 👨‍💻 All of my projects are available at [https://wke.lt/w/s/-oF5u_](https://wke.lt/w/s/-oF5u_) -->
 - 📫 How to reach me - Mail me on iamsagar14429@gmail.com , and I'll surely reply asap ..
