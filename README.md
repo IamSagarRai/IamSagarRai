@@ -1,5 +1,7 @@
 ![](https://github.com/rfyiamcool/rfyiamcool/blob/master/header.png)
 
+$$\sum_{i=0}^{\infty} i$$
+
 ### 👋 Hi, I’m @Sagar Rai 
 ## Artifical Intelligence || Trendsetter || Cuber || Space Enthusiast || Coder || Student 😏
 
